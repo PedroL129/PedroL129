@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a software engineer, coding since 2014. I am glad about you get interested on my repositories
+
 <!--
 **PedroL129/PedroL129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
