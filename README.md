@@ -2,6 +2,16 @@
 
 I am a software engineer, coding since 2014. I am glad about you get interested on my repositories
 
+[![dev.to badge](https://img.shields.io/badge/linkedin-Pedro%20Luis%20Martinez-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedro-luis-martínez-gonçalves-0222735a)
+![](https://komarev.com/ghpvc/?username=pedrol129&color=brightgreen&style=flat)
+
+- ⚡️ Technologies I work with: Java, SQL, Swagger, JavaScript, TypeScript, Angular, CSS, HTML, Bootstrap and more ....
+- 👨‍💻 All of my projects are available  [here](https://github.com/pedrol129?tab=repositories)
+
+### My GitHub Top Languages 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrol129&hide=css,html)
+### My GitHub stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=pedrol129&show_icons=true)
 <!--
 **PedroL129/PedroL129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
