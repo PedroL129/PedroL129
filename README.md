@@ -2,7 +2,7 @@
 
 I am a software engineer, coding since 2014. I am glad about you get interested on my repositories
 
-[![dev.to badge](https://img.shields.io/badge/linkedin-Pedro%20Luis%20Martinez-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedro-luis-martínez-gonçalves-0222735a)
+[![dev.to badge](https://img.shields.io/badge/Pedro%20Luis%20Martinez-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedro-luis-martínez-gonçalves-0222735a)
 ![](https://komarev.com/ghpvc/?username=pedrol129&color=brightgreen&style=flat)
 
 ### Languages
