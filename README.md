@@ -7,30 +7,30 @@ I am a software engineer, coding since 2014. I am glad about you get interested 
 
 ### Languages
 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/PedroL120)](https://github.com/PedroL120) 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/PedroL120)](https://github.com/PedroL120) 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&link=https://github.com/PedroL120)](https://github.com/PedroL120) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/PedroL120)](https://github.com/PedroL120) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/PedroL120)](https://github.com/PedroL120) 
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/PedroL129)](https://github.com/PedroL129) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/PedroL129)](https://github.com/PedroL129) 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&link=https://github.com/PedroL129)](https://github.com/PedroL129) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/PedroL129)](https://github.com/PedroL129) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/PedroL129)](https://github.com/PedroL129) 
 
 ### Frameworks
 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/PedroL120)](https://github.com/PedroL120) 
-[![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular&link=https://github.com/PedroL120)](https://github.com/PedroL120) 
-[![Less](https://img.shields.io/badge/-Less-blue?style=flat&link=https://github.com/PedroL120)](https://github.com/PedroL120) 
-[![Spring](https://img.shields.io/badge/-Spring-gray?style=flat&logo=spring&link=https://github.com/PedroL120)](https://github.com/PedroL129) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/PedroL129)](https://github.com/PedroL129) 
+[![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular&link=https://github.com/PedroL129)](https://github.com/PedroL129) 
+[![Less](https://img.shields.io/badge/-Less-blue?style=flat&link=https://github.com/PedroL129)](https://github.com/PedroL129) 
+[![Spring](https://img.shields.io/badge/-Spring-gray?style=flat&logo=spring&link=https://github.com/PedroL129)](https://github.com/PedroL129) 
 
 ### CI
 
-[![Jenkins](https://img.shields.io/badge/-Jenkins-AAAAAA?style=flat&logoColor=000000&logo=jenkins&link=https://github.com/PedroL120)](https://github.com/PedroL120) 
+[![Jenkins](https://img.shields.io/badge/-Jenkins-AAAAAA?style=flat&logoColor=000000&logo=jenkins&link=https://github.com/PedroL129)](https://github.com/PedroL129) 
 
 ### Other Random Stuff
 
-[![MySQL](https://img.shields.io/badge/MySQL-FFF?style=flat&logoColor=black&logo=mysql&link=https://github.com/PedroL120)](https://github.com/PedroL120)
-[![SQL Server](https://img.shields.io/badge/Sql_Server-181717?style=flat&logo=microsoft-sql-server&link=https://github.com/PedroL120)](https://github.com/PedroL120)
-[![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&link=https://github.com/PedroL120)](https://github.com/PedroL120) 
-[![Swagger](https://img.shields.io/badge/Swagger-gray?style=flat&logo=swagger&link=https://github.com/PedroL120)](https://github.com/PedroL120)
-[![JasperReports](https://img.shields.io/badge/JasperReports-gray?style=flat&link=https://github.com/PedroL120)](https://github.com/PedroL120)
+[![MySQL](https://img.shields.io/badge/MySQL-FFF?style=flat&logoColor=black&logo=mysql&link=https://github.com/PedroL129)](https://github.com/PedroL129)
+[![SQL Server](https://img.shields.io/badge/Sql_Server-181717?style=flat&logo=microsoft-sql-server&link=https://github.com/PedroL129)](https://github.com/PedroL129)
+[![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&link=https://github.com/PedroL129)](https://github.com/PedroL129) 
+[![Swagger](https://img.shields.io/badge/Swagger-gray?style=flat&logo=swagger&link=https://github.com/PedroL129)](https://github.com/PedroL129)
+[![JasperReports](https://img.shields.io/badge/JasperReports-gray?style=flat&link=https://github.com/PedroL129)](https://github.com/PedroL129)
 **Coming soon...**
 
 ### My GitHub Top Languages 
