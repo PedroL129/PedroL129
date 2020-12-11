@@ -34,9 +34,9 @@ I am a software engineer, coding since 2014. I am glad about you get interested 
 **Coming soon...**
 
 ### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrol129&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrol129&hide=css,html&theme=dark)
 ### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=pedrol129&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=pedrol129&show_icons=true&theme=dark)
 <!--
 **PedroL129/PedroL129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
